@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 second line
 added a third line
 added a fourth line for rebasing exercise
+This has been added through github on line 2
