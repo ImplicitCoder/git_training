@@ -4,3 +4,4 @@ added a third line
 added a fourth line for rebasing exercise
 This has been added through github on line 2
 This has been added through github on last line 6
+on line 6 added locally
